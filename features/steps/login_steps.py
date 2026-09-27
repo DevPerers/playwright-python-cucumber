@@ -17,10 +17,15 @@ def step_impl(context):
 def step_impl(context):
     context.login_page.verify_login_page_ui_elements_visible()
 
-@when('the user enters username "{username}" and password "{password}"')
-def step_impl(context, username, password):
-    context.login_page.enter_username(username)
-    context.login_page.enter_password(password)
+@when('the user enters invalid credentials')
+def step_impl(context):
+    context.login_page.enter_username(Config.INVALID_USERNAME)
+    context.login_page.enter_password(Config.INVALID_PASSWORD)    
+
+@when('the user enters valid credentials')
+def step_impl(context):
+    context.login_page.enter_username(Config.VALID_USERNAME)
+    context.login_page.enter_password(Config.VALID_PASSWORD)
 
 @when('clicks the login button')
 def step_impl(context):
@@ -40,10 +45,10 @@ def step_impl(context):
     context.okta_page = OktaLoginPage(context.page)
     context.okta_page.verify_is_on_okta_page()
 
-@when('the user enters OKTAusername "{username}" and password "{password}"')
-def step_impl(context, username, password):
-    context.okta_page.enter_username(username)
-    context.okta_page.enter_password(password)
+@when('the user enters valid OKTA credentials')
+def step_impl(context):
+    context.okta_page.enter_username(Config.VALID_USERNAME)
+    context.okta_page.enter_password(Config.VALID_OKTAPASSWORD)
 
 @when('clicks the OKTA login button')
 def step_impl(context):

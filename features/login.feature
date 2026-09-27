@@ -14,14 +14,14 @@ Feature: Verify the login page and its functionality
     Then the user should see the error message as "Please provide a user name"
 
   Scenario: User logs in with incorrect credentials
-    When the user enters username "aut_auth1@traxretail.com" and password "a1"
+    When the user enters invalid credentials
     And clicks the login button
     Then the user should see the error message as "Invalid credentials."
 
   Scenario: User logs in with correct credentials
-    When the user enters username "aut_auth@traxretail.com" and password "a"
+    When the user enters valid credentials
     And clicks the login button
     Then user should see OKTA login page
-    When the user enters OKTAusername "aut_auth@traxretail.com" and password "Cypress@Automation25"
+    When the user enters valid OKTA credentials
     And clicks the OKTA login button
     Then the homepage application header should be visible as "Homepage "
