@@ -1,0 +1,11 @@
+{
+    "project": "autoqa1-int",
+    "visitIdForReferenceImageTest": "1415906",
+    "sessionUid": "7d1e9da7-4c26-4ebd-8fad-1c7f906c866f",
+    "kpiCircleForReferenceImageTest": "Agreed Range OOS Live",
+    "kpiReferenceImageUrl": "https://services.traxretail.com/images/traxusint/autoqa1-int/kpi_reference_images/2081/1",
+    "kpiReferenceImageText": "KPI Reference Image 1",
+    "visitIdForKpiEntitiesSortingTest": "1427399",
+    "kpiCircleForKpiEntitiesSortingTest": "Facings SOS",
+    "kpiSortingMenuOption": "SOS"
+}

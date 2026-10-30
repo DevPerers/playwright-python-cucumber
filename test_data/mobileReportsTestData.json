@@ -1,0 +1,106 @@
+{
+    "project": "autoqa1-int",
+    "visitId": "505122",
+    "visitIdForActionsPageTest": "465204",
+    "sessionUid": "fffef6b2-a0fb-432e-8de7-e4237ef212d7",
+    "liveFirstVisitId": "1425096",
+    "liveFirstStoreId": "748",
+    "liveFirstSalesRepId": "79",
+    "liveFirstSessionUid": "59495981-cc4f-4649-b241-65af7816068b",
+    "sessionUidForKpiOrderTest": "c99d0ac3-a795-430b-b2c1-1002270fedf2",
+    "sessionUidForDeltaValuesUrlTest": "c99d0ac3-a795-430b-b2c1-1002270fedf2",
+    "visitIdForDeltaValuesExplorerTest": "1426896",
+    "recentVisitUrlForDeltaValuesUrlTest": "/mobile-reports-new/reports/autoqa1-int/c24f90a5-6bc3-43f2-b4c1-8aafde8c2007/regular/visit-summary",
+    "recentVisitUrlForDeltaValuesExplorerTest": "/mobile-reports-new/reports/autoqa1-int/e5106f4e-4ca8-4608-941e-9645ca03e91c/regular/visit-summary",
+    "kpiNameAliases": [
+        {
+            "id": 0,
+            "name": "kpi1"
+        },
+        {
+            "id": 1,
+            "name": "kpi2"
+        },
+        {
+            "id": 2,
+            "name": "kpi3"
+        },
+        {
+            "id": 3,
+            "name": "kpi4"
+        }
+    ],
+
+    "kpiCircleValuesOfCurrentVisit": [
+        {
+            "id": 0,
+            "circleValueAlias": "kpiCircle1ValueOfCurrentVisit"
+        },
+        {
+            "id": 1,
+            "circleValueAlias": "kpiCircle2ValueOfCurrentVisit"
+        },
+        {
+            "id": 2,
+            "circleValueAlias": "kpiCircle3ValueOfCurrentVisit"
+        },
+        {
+            "id": 3,
+            "circleValueAlias": "kpiCircle4ValueOfCurrentVisit"
+        }
+    ],
+
+    "kpiDeltaValues": [
+        {
+            "id": 0,
+            "deltaValueAlias": "deltaValue1"
+        },
+        {
+            "id": 1,
+            "deltaValueAlias": "deltaValue2"
+        },
+        {
+            "id": 2,
+            "deltaValueAlias": "deltaValue3"
+        },
+        {
+            "id": 3,
+            "deltaValueAlias": "deltaValue4"
+        }
+    ],
+
+    "kpiCircleValuesOfPreviousVisit": [
+        {
+            "id": 0,
+            "previousCircleValueAlias": "kpiCircle1ValueOfPreviousVisit"
+        },
+        {
+            "id": 1,
+            "previousCircleValueAlias": "kpiCircle2ValueOfPreviousVisit"
+        },
+        {
+            "id": 2,
+            "previousCircleValueAlias": "kpiCircle3ValueOfPreviousVisit"
+        },
+        {
+            "id": 3,
+            "previousCircleValueAlias": "kpiCircle4ValueOfPreviousVisit"
+        }
+    ],
+    "sessionUidForKpiColorConfigurationTest": "a9043165-da9d-4b8e-8c76-d635b4e25058",
+    "kpiNameForColorConfiguration": "Linear SOS - Store Level",
+    "sessionUidForReportInaccessibilityVerifyingForNonLoggedInUserTest": "1a1fe25a-74cf-4a64-8727-a23f7a9d2605",
+    "sessionUidForKpiCircleTitleRenamingTest": "7a64b643-d5a6-4f3f-86cd-1e0fb97a981f",
+    "sessionUidsForDeltaColoringMethodTests": [
+        "c99d0ac3-a795-430b-b2c1-1002270fedf2",
+        "93443b2a-0686-4274-bccf-fe86de43c97e",
+        "c24f90a5-6bc3-43f2-b4c1-8aafde8c2007",
+        "3f562106-d11e-4e37-ae04-601b04820ab5"
+    ],
+    "recentVisitUrlsForDeltaColoringMethodTests": [
+        "/mobile-reports-new/reports/autoqa1-int/c24f90a5-6bc3-43f2-b4c1-8aafde8c2007/regular/visit-summary",
+        "/mobile-reports-new/reports/autoqa1-int/64533885-aa51-4523-bf20-111d5ade38fa/regular/visit-summary",
+        "/mobile-reports-new/reports/autoqa1-int/ef44213c-4a8b-423d-a71f-97ac576b77cc/regular/visit-summary",
+        "/mobile-reports-new/reports/autoqa1-int/93443b2a-0686-4274-bccf-fe86de43c97e/regular/visit-summary"
+    ]
+}

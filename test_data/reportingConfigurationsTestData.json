@@ -1,0 +1,94 @@
+{
+    "regionForOosReasons": "MADRID",
+    "oosMessageForOverride": "Error de reconocimiento, el producto SI que se encuentra en el lineal./ Trax recognition error. The producto is on shelf.",
+    "kpiNames": [
+        {
+            "kpiClientName": "SF_GSK_AROOS_by_Product_by_Store",
+            "kpiName": "MSL_Live OOS - SKU"
+        },
+        {
+            "kpiClientName": "SF_GSK_MSL_by_Product_by_Store",
+            "kpiName": "MSL_Live - SKU"
+        },
+        {
+            "kpiClientName": "RE_GSK_MSL_by_Product_by_Store",
+            "kpiName": "MSL - SKU"
+        },
+        {
+            "kpiClientName": "RE_GSK_AR_by_Product_by_Store",
+            "kpiName": "Agreed_Range - SKU"
+        }
+    ],
+    "kpiOrderValueAliases": [
+        {
+            "kpiName": "@kpi1",
+            "kpiOrderValue": "kpiOrderValue1"
+        },
+        {
+            "kpiName": "@kpi2",
+            "kpiOrderValue": "kpiOrderValue2"
+        },
+        {
+            "kpiName": "@kpi3",
+            "kpiOrderValue": "kpiOrderValue3"
+        },
+        {
+            "kpiName": "@kpi4",
+            "kpiOrderValue": "kpiOrderValue4"
+        }
+    ],
+    "oosMessage1": "El producto está en almacén./ The Produt is in the store's warehouse",
+    "oosMessage2": "GSK está en rotura de esta referencia / GSK is Out of Stock from this SKU",
+    "categoryOrder": [
+        {
+            "inputIndex": 0,
+            "order": "1"
+        },
+        {
+            "inputIndex": 2,
+            "order": "2"
+        },
+        {
+            "inputIndex": 3,
+            "order": "3"
+        },
+        {
+            "inputIndex": 5,
+            "order": "4"
+        },
+        {
+            "inputIndex": 4,
+            "order": "5"
+        }
+    ],
+    "kpiCircleForReferenceImageTest": "Agreed Range OOS Live",
+    "kpiReferenceImageText": "KPI Reference Image 1",
+    "kpiNameForColorConfiguration": "Linear SOS - Store Level",
+    "kpiResultValueForColorConfiguration": "16.9",
+    "kpiScoreValueForColorConfiguration": "20",
+    "kpiTargetValueForColorConfiguration": "30",
+    "thresholdValues": [
+        {
+            "index": 0,
+            "value": "16"
+        },
+        {
+            "index": 1,
+            "value": "20"
+        },
+        {
+            "index": 2,
+            "value": "56"
+        },
+        {
+            "index": 3,
+            "value": "57"
+        }
+    ],
+    "timeForOosTimeBasedFraudPrevention": "60",
+    "kpiForKpiCircleTitleRenamingTest": "MSL OOS",
+    "nameForKpiCircleTitleRename": "MSL OOS - Renamed",
+    "kpiForPositiveDeltaColoringMethodTest": "Agreed_Range",
+    "kpiForNegativeDeltaColoringMethodTest": "Agreed_Range OOS",
+    "textForOosReasonButton": "Test OOS Reason"
+}

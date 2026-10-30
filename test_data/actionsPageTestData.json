@@ -1,0 +1,47 @@
+{
+    "project": "autoqa1-int",
+    "visitIdForActionsPageTest": "1427550",
+    "sessionUid": "1a1fe25a-74cf-4a64-8727-a23f7a9d2605",
+    "liveKpiName1": "SF_GSK_AROOS_by_Product_by_Store",
+    "regularKpiName1": "RE_GSK_MSL_by_Product_by_Store",
+    "category": "Salud bucodental",
+    "brandName1": "Aquafresh",
+    "brandName2": "Sensodyne",
+    "skuNameForOosActionsHandling": "AQUAFRESH PASTA MENTA FRESCA 1X125ML",
+    "sessionUidForCategoryOrderTest": "79d5239c-5156-4ac4-b1ab-973cec05081d",
+    "categoryOrder": [
+        {
+            "categoryName": "Salud bucodental",
+            "order": "1"
+        },
+        {
+            "categoryName": "VMS",
+            "order": "2"
+        },
+        {
+            "categoryName": "Alivio del Dolor",
+            "order": "3"
+        },
+        {
+            "categoryName": "Irritacion de la piel",
+            "order": "4"
+        },
+        {
+            "categoryName": "Salud respiratoria",
+            "order": "5"
+        }
+    ],
+    "sessionUidForSubmitFeedbackTest": "70d4173e-a554-4fc1-94f3-9345b7929086",
+    "submitFeedbackPopUpImageUrl": "/mobile-reports-new/assets/images/products.svg",
+    "sessionUidForPartialRecalculationTest": "c73d6eba-11b5-4d73-9ff9-4d1e51bd66b5",
+    "productImageUrl": "/Product_Images/2741/Front20230831135651/large",
+    "projectForProductImageUrl": "gskes",
+    "skuNamesForOosMultipleActionsHandling": ["Sensodyne cepillo Multicare", "Sensodyne cepillo Rapid", "Sensodyne pasta Limpieza Refrescante 75 ML", "Sensodyne pasta Rapid Blanqueante 75 ML"
+    ],
+    "renamedOosReasonButtonNameForSliding": "Test OOS Reason",
+    "renamedOosReasonButtonNameForMultipleSelectionAndProductDetailsPage": "TEST OOS REASON",
+    "renamedEditOosReasonButtonNameForSliding": "Edit Test OOS Reason",
+    "renamedEditOosReasonButtonNameForProductDetailsPage": "EDIT TEST OOS REASON",
+    "renamedEditOosReasonButtonNameForMultipleSelection": "TEST OOS REASON",
+    "skuNameForOosReasonButtonTextTest": "Sensodyne cepillo Multicare"
+}

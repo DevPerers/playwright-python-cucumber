@@ -1,0 +1,22 @@
+{
+    "project": "autoqa1-int",
+    "visitId": "1416498",
+    "sessionUid": "9a33a458-e040-4963-bb94-52df701dd63c",
+    "viewImagesPageSceneCardSceneNames": ["Lineal cuidado bucal","Lineal salud respiratoria", "Lineal vitaminas"],
+    "viewImagesPageSceneIds": ["932381", "932379", "932375"],
+    "viewImagesPageImageCounts": ["2 x", "1 x", "1 x"],
+    "productTaggingPageImageTagsPopUps": [{"Index": 0,
+                                           "Text": "Cepillo Lacer Junior",
+                                           "Url": "https://traxus.s3.amazonaws.com/gskes/Product_Images/1368/Front20220104101522/small"},
+                                          {"Index": 133,
+                                           "Text": "Irrelevant",
+                                           "Url": "https://traxus.s3.amazonaws.com/gskes/Product_Images/1964/Front20220107100109/small"},
+                                          {"Index": 82,
+                                           "Text": "Kukident Toothpaste Other",
+                                           "Url": "https://traxus.s3.amazonaws.com/gskes/Product_Images/1983/Front20220218082545/small"},
+                                          {"Index": 6,
+                                           "Text": "Corega fijador Extra Fuerte 70 GR",
+                                           "Url": "https://traxus.s3.amazonaws.com/gskes/Product_Images/767/Front20220110090150/small"}
+                                         ],
+    "productTaggingPageImageTagsCount": 289
+}

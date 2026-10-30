@@ -1,0 +1,19 @@
+{
+    "project": "autoqa1-int",
+    "visitId": "1427758",
+    "typeQuestion": ".question",
+    "surveyQuestion": "¿2o espacio negociado Sensodyne MM? (1)",
+    "typeAnswer": ".answer",
+    "visitSurveyAnswer": "Sí, conseguido en BALDA cabecera",
+    "sceneSurveyAnswer": "Sí, conseguido en BALDA cabecera",
+    "typeSurveyGroupHeaderTitle": ".survey-group-header-title",
+    "visitSurveyGroupHeaderTitle": " Visit Survey - Secondary Survey ",
+    "sceneSurveyGroupHeaderTitle": " Lineal cuidado bucal - Secondary Survey ",
+    "typeSurveyTitle": ".survey-group-title",
+    "visitSurveyTitle": "Visit",
+    "sceneSurveyTitle": "Scene ID: 939797",
+    "surveyImageUrl": "https://traxusint.s3.amazonaws.com/autoqa1-int/Images/20251001/1ad8102d-6e3d-11ec-94c2-0a08cb579a7d/3cafd1c5-72ab-4238-bd3c-123a1893c77a/original",
+    "visitSurveyGroupQuestionsCount": 30,
+    "sceneSurveyGroupQuestionsCount": 45,
+    "sessionUid": "90b25a92-7a94-432a-a071-6d4be0f28193"
+}
